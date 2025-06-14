@@ -37,3 +37,18 @@ body{
     gap: 7px;
 }
 
+.line_users__button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #323d72;
+    border-radius: 16px;
+    padding: 10px 20px;
+    border: 3px solid #4756a3;
+    font-family: 'SourceCodePro_Regular';
+    font-size: 14px;
+    color: #ffffff;
+    cursor: pointer;
+
+}
+
